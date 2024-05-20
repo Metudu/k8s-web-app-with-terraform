@@ -1,7 +1,7 @@
 # k8s Project: Basic Web App Deployment with Terraform
 
 Hi everyone,
-I have been learning Kubernetes for a few days, so I wanted to make some practice with Kubernetes and deployed a basic web application to Kubernetes. I also used Terraform as IaC tool which means all the deployment has done with Terraform. 
+I have been learning Kubernetes for a few days, so I wanted to make some practice with Kubernetes and deployed a basic web application into a **minikube** cluster. I also used Terraform as the IaC tool which means all the deployment has done with Terraform. 
 
 ![architecture](./assets/architecture.png)
 
